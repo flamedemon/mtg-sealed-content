@@ -1044,6 +1044,31 @@ products:
     identifiers:
       tcgplayerProductId: '514995'
     subtype: SECRET_LAIR
+  Secret Lair Drop Artist Series Phil Foglio Foil:
+    category: BOX_SET  
+  Secret Lair Drop Artist Series Phil Foglio:
+    category: BOX_SET  
+  Secret Lair Drop Final Fantasy Weapons:
+    category: BOX_SET          
+  Secret Lair Drop Final Fantasy Weapons Foil:
+    category: BOX_SET    
+  Secret Lair Drop Final Fantasy Grimoire:
+    category: BOX_SET
+  Secret Lair Drop Final Fantasy Grimoire Foil:
+    category: BOX_SET  
+  Secret Lair Drop Final Fantasy Game Over Foil:
+    category: BOX_SET    
+  Secret Lair Drop Final Fantasy Game Over:
+    category: BOX_SET    
+  Secret Lair Drop Featuring Imiri Sakabashira:
+    category: BOX_SET     
+  Secret Lair Drop Featuring Imiri Sakabashira Foil:
+    category: BOX_SET     
+  Secret Lair Drop The Art of Frank Frazetta The Second Exhibition:
+    category: BOX_SET        
+  Secret Lair Drop The Art of Frank Frazetta The Second Exhibition Foil:
+    category: BOX_SET           
+    
   Secret Lair Drop Aether Drifters:
     category: BOX_SET
     identifiers:
@@ -4707,6 +4732,43 @@ products:
     identifiers:
       csiId: '349073'
       tcgplayerProductId: '450617'
+    subtype: SECRET_LAIR
+ Secret Lair Drop vroooOOOMMMMMM!:
+    category: BOX_SET
+    subtype: SECRET_LAIR
+
+  Secret Lair Drio vroooOOOMMMMMM!Foil:
+    category: BOX_SET
+    subtype: SECRET_LAIR
+  Secret Lair Drop vroooOOOMMMMMM! Raised Foil:
+    category: BOX_SET
+    subtype: SECRET_LAIR
+  Secret Lair Drop Everything Is On Fire:
+    category: BOX_SET
+    subtype: SECRET_LAIR
+  Secret Lair Drop Everything Is On Fire Foil:
+    category: BOX_SET
+    subtype: SECRET_LAIR   
+  Secret Lair Drop Everything Is On Fire Raised Foil:
+    category: BOX_SET
+    subtype: SECRET_LAIR  
+     Secret Lair Drop x KEXP You Are Not Alone:
+    category: BOX_SET
+    subtype: SECRET_LAIR
+  Secret Lair Drop x KEXP You Are Not Alone Foil:
+    category: BOX_SET
+    subtype: SECRET_LAIR
+  Secret Lair Drop x KEXP Where the Music Matters:
+    category: BOX_SET
+    subtype: SECRET_LAIR  
+  Secret Lair Drop x KEXP Where the Music Matters Foil:
+    category: BOX_SET
+    subtype: SECRET_LAIR  
+  Secret Lair Featuring Jay Howell:
+    category: BOX_SET
+    subtype: SECRET_LAIR
+  Secret Lair Featuring Jay Howell! Foil:
+    category: BOX_SET
     subtype: SECRET_LAIR
   Secret Lair Drop The Stars Gaze Back:
     category: BOX_SET
