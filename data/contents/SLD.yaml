@@ -1,7 +1,11 @@
 code: sld
 products:
-  Secret Lair Adventures of the Little Witch: []
-  Secret Lair Adventures of the Little Witch Foil: []
+  Secret Lair Adventures of the Little Witch: 
+      name: Adventures of the Little Witch 
+      card_count: 4
+  Secret Lair Adventures of the Little Witch Foil: 
+      name: Adventures of the Little Witch Foil 
+      card_count: 4
   Secret Lair Bundle All Natural Totally Refreshing Superdrop All 4 U:
     sealed:
     - count: 1
@@ -1525,7 +1529,9 @@ products:
     deck:
     - name: Angels They're Just Like Us but Cooler and with Wings
       set: sld
-  Secret Lair Commander Deck Everyones Invited!: []
+  Secret Lair Commander Deck Everyones Invited!: 
+      name:  Secret Lair Commander Deck Everyones Invited!
+      card_count: 100
   Secret Lair Commander Deck From Cute to Brute:
     card:
     - foil: true
@@ -1697,7 +1703,9 @@ products:
         set: sld
     variable_mode:
       count: 1
-  Secret Lair Drop Adventures of the Little Witch: []
+  Secret Lair Drop Adventures of the Little Witch: 
+      name:  Adventures of the Little Witch
+      card_count: 4
   Secret Lair Drop Aether Drifters:
     card_count: 5
     deck:
@@ -1980,7 +1988,9 @@ products:
     deck:
     - name: Artist Series Nils Hamm foil
       set: sld
-  Secret Lair Drop Artist Series Phil Foglio: []
+  Secret Lair Drop Artist Series Phil Foglio: 
+      name: Artist Series Phil Foglio  
+      card_count: 4
   Secret Lair Drop Artist Series Randy Vargas:
     card:
     - name: Selfless Savior
@@ -3042,8 +3052,12 @@ products:
       set: sld
     other:
     - name: Bonus card unknown
-  Secret Lair Drop EVERYTHING IS ON FIRE: []
-  Secret Lair Drop EVERYTHING IS ON FIRE (Raised Foil): []
+  Secret Lair Drop EVERYTHING IS ON FIRE: 
+      name: EVERYTHING IS ON FIRE
+      card_count: 5
+  Secret Lair Drop EVERYTHING IS ON FIRE (Raised Foil): 
+      name: EVERYTHING IS ON FIRE Raised foil
+      card+count: 5
   Secret Lair Drop Eldraine Wonderland:
     card_count: 5
     deck:
@@ -3273,8 +3287,12 @@ products:
       set: sld
     other:
     - name: Bonus card unknown
-  Secret Lair Drop Featuring Imiri Sakabashira: []
-  Secret Lair Drop Featuring Jay Howell: []
+  Secret Lair Drop Featuring Imiri Sakabashira: 
+      name: Featuring Imiri Sakabashira
+      card_count: 4
+  Secret Lair Drop Featuring Jay Howell: 
+      Name: Featuring Jay Howell
+      card_count: 5
   Secret Lair Drop Featuring Julie Bell:
     card_count: 5
     deck:
@@ -5021,9 +5039,15 @@ products:
       set: sld
     other:
     - name: Bonus card unknown
-  Secret Lair Drop Secret Lair x FINAL FANTASY Game Over: []
-  Secret Lair Drop Secret Lair x FINAL FANTASY Grimoire: []
-  Secret Lair Drop Secret Lair x FINAL FANTASY Weapons: []
+  Secret Lair Drop Secret Lair x FINAL FANTASY Game Over: 
+      name: FINAL FANTASY Game Over
+      card_count: 5
+  Secret Lair Drop Secret Lair x FINAL FANTASY Grimoire: 
+      name: FINAL FANTASY Grimoire
+      card_count: 5
+  Secret Lair Drop Secret Lair x FINAL FANTASY Weapons: 
+      name: FINAL FANTASY Weapons
+      card_count: 5
   Secret Lair Drop Secret Lair x Fallout Points of Interest:
     card_count: 5
     deck:
@@ -5258,8 +5282,12 @@ products:
     deck:
     - name: Jurassic World Life Breaks Free foil
       set: sld
-  Secret Lair Drop Secret Lair x KEXP Where the Music Matters: []
-  Secret Lair Drop Secret Lair x KEXP You Are Not Alone: []
+  Secret Lair Drop Secret Lair x KEXP Where the Music Matters: 
+      Name: KEXP Where the Music Matters
+      card_count: 10
+  Secret Lair Drop Secret Lair x KEXP You Are Not Alone: 
+      name: KEXP You Are Not Alone
+      card_count: 5
   Secret Lair Drop Secret Lair x Marvels Black Panther:
     card_count: 5
     deck:
@@ -5522,8 +5550,12 @@ products:
     deck:
     - name: Monty Python and the Holy Grail Vol 2 foil
       set: sld
-  Secret Lair Drop Secret Lair x NALAC Nuestra Magia: []
-  Secret Lair Drop Secret Lair x NALAC Nuestra Magia (Rainbow Foil): []
+  Secret Lair Drop Secret Lair x NALAC Nuestra Magia: 
+      name: Nuestra Magia
+      card_count: 9
+  Secret Lair Drop Secret Lair x NALAC Nuestra Magia (Rainbow Foil): 
+      Name: Nuestra Magia foi
+      card_count: 9
   Secret Lair Drop Secret Lair x Post Malone Backstage Pass:
     card:
     - foil: true
@@ -6371,7 +6403,9 @@ products:
     deck:
     - name: The Art of Frank Frazetta foil
       set: sld
-  Secret Lair Drop The Art of Frank Frazetta The Second Exhibition: []
+  Secret Lair Drop The Art of Frank Frazetta The Second Exhibition: 
+      Name: The Art of Frank Frazetta The Second Exhibition
+      card_count: 5
   Secret Lair Drop The Beauty of the Beasts:
     card_count: 5
     deck:
@@ -7008,8 +7042,12 @@ products:
     deck:
     - name: sAnS mERcY foil
       set: sld
-  Secret Lair Drop vroooOOOMMMMMM!: []
-  Secret Lair Drop vroooOOOMMMMMM! (Raised Foil): []
+  Secret Lair Drop vroooOOOMMMMMM!: 
+      name: vroooOOOMMMMMM 
+      card_count: 5
+  Secret Lair Drop vroooOOOMMMMMM! (Raised Foil): 
+      name: vroooOOOMMMMMM! Raised foil
+      card_count: 5
   "Secret Lair Drop \u201Cexplosion sounds\u201D":
     card_count: 5
     deck:
